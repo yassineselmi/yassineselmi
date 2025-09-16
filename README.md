@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Development Architect with a strong Cloud automation background and 7+ years of experience designing, implementing, and managing cutting-edge solutions.<br>
+Software Development Architect / Manager with a strong GenAI, Cloud automation background, and 10+ years of experience designing, implementing, and managing cutting-edge solutions.<br>
 
 
 ## 🌐 Socials:
