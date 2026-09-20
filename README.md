@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Development Architect / Manager with a strong GenAI, Cloud automation background, and 10+ years of experience designing, implementing, and managing cutting-edge solutions.<br>
+Director of Engineering with a strong GenAI, AI-Native SLDC, and Cloud automation background, and 12+ years of experience designing, implementing, and managing cutting-edge solutions.<br>
 
 
 ## 🌐 Socials:
